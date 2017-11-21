@@ -1,4 +1,4 @@
-# Project-in-Concordia
+# Projects in Concordia
 
 ## Repo Intro
 This repo is to sort out some projects during my graduate school:
