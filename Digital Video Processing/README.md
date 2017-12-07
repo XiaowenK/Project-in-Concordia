@@ -2,7 +2,7 @@
 
 ## Project Intro
 
-This project aims at implementing an color video denoising filter. Compared to the classical NLM, we mainly optimized it in three ways:
+This project aims at implementing an color video denoising filter. Compared to the classical spatial filtering, we also consider the interframe(temporal) and intercolor relationship:
 1) an automatic tuning of the smoothing parameter;
 2) a selection of the pixels or blocks;
 3) a blockwise implementation;
